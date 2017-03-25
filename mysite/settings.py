@@ -25,7 +25,9 @@ SECRET_KEY = '6clt+ffsr$5lcs7uzc5eoh@a2l*571zj@wy46^jc5ag^wn-8m4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tasarim.pythonanywhere.com']
+ALLOWED_HOSTS = [
+    'tasarim.pythonanywhere.com'
+]
 
 
 # Application definition
